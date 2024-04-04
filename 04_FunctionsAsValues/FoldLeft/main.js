@@ -13,7 +13,7 @@ var combinedString = strings.reduce(function (accumulator, currentValue) {
 }, "");
 console.log("Kombinierter String:", combinedString);
 var points = [
-  [1, 3],
+  [1, 3],	
   [2, 5],
   [4, 8],
   [6, 2],
